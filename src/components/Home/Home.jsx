@@ -1,8 +1,10 @@
 import React from "react";
 import './Home.css';
 function Home() {
+    var bHash = '454545ahh hhshhhjjjjjjhhhh';
+    var eHash = '42098hhhhjjjjjjdjjjjhdhdhd';
     return (<>
-        
+
             <div className="Circle">
                 <div className="Circle1">
                     <h3>B.Hash</h3>
@@ -11,13 +13,14 @@ function Home() {
                     <h3>E.Hash</h3>
                 </div>
             </div>
-            <div className="HashCode">
+            <div className="HashCode" style={{color:bHash === eHash ? 'green: "neon': 'red: :"neon' }}>
                 <div className="HashCodeBlockChain" >
-                    <span className="neon">4554545445kkkkkkkksthhhh</span>
+                    <span className="neon" > {bHash}</span>
+
                 </div>
                 <div className="HashCodeExcel" >
                     <span className="neon"
-                    >45545ddoteryufhvao52</span>
+                    >{eHash}</span>
                 </div>
             </div>
             

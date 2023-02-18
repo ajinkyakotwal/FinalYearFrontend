@@ -1,5 +1,8 @@
 .desp{
     padding-left: 20px;
     padding-top: 20px;
-    color: wheat;
+    color: rgb(239, 238, 237);
+}
+.desp h4{
+    color :white;
 }

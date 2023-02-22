@@ -83,27 +83,22 @@ span{
     padding-right: 100px;
     padding-top: 0px;
     padding-bottom: 0px; 
-    display: flex;
-    
-    
+    display: flex;  
 }
-.HashCode .HashCodeBlockChain{
+.HashCodeBlockChain{
     
     margin: 5px 5px 5px 5px;
-    padding-right: 70px;
-    padding-left: 30px;
+    padding-right: 125px;
+    padding-left: 135px; 
+    padding-top: 100px;
+     
     
-   
-    
-
 }
-.HashCode .HashCodeExcel{
-    
-    padding-left: 15px;
-    padding-right: 30px;
-    margin: 5px 5px 5px 5px;
-    
-    
-    
+.HashCodeExcel{
 
+    padding-left: 135px;
+    padding-right: 125px;
+    margin: 5px 5px 5px 5px;
+    padding-top: 120px;
+    
 }

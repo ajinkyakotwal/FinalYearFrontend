@@ -14,7 +14,7 @@ function Block(props) {
         <Item name={transaction.title} description={transaction.Description}/>
          
       ))}
-      <h1>Block</h1>
+      
     </div>
   );
 };

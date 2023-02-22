@@ -17,7 +17,7 @@ function NavBar() {
                 
                 <Link className="menu" to={"/"}>Home</Link>
                 <Link className="menu" to={"/logs"}>Logs</Link>
-                <Link className="menu" to={"/about"}>About</Link>
+                <Link className="menu" to={"/about"}>Problem</Link>
             </div>
         </header>
 
